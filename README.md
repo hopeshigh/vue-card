@@ -1,2 +1,3 @@
 # vue-card
-Vue3 card demo
+
+Building a card using Vue3 + Vite
